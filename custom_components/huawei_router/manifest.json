@@ -3,5 +3,6 @@
     "name": "Huawei Router",
     "documentation": "https://www.home-assistant.io/integrations/huawei_router",
     "codeowners": ["@abmantis"],
-    "iot_class": "local_polling"
+    "iot_class": "local_polling",
+    "version": "0.1.0"
 }
